@@ -23,9 +23,6 @@ FMODStudioNiagara/Content/*
 FMODStudioNiagara/Source/*
 FMODStudioNiagara/*.uplugin
 
-# UE
-*.uproject
-
 # Visual Studio 2015 user specific files
 .vs/
 
