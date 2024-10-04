@@ -144,7 +144,7 @@ FMOD_RESULT F_CALL SoundCallback(FMOD_STUDIO_EVENT_CALLBACK_TYPE type, FMOD_STUD
         // Pass the sound to FMOD
         FMOD_STUDIO_PROGRAMMER_SOUND_PROPERTIES* props = (FMOD_STUDIO_PROGRAMMER_SOUND_PROPERTIES*)parameters;
         props->sound = (FMOD_SOUND*)sound;
-        UE_LOG(LogFMODAudioLink, Verbose, TEXT("Sound Created: %s , Consumer = %p."), *sourceName, ConsumerPtr);
+        //UE_LOG(LogFMODAudioLink, Verbose, TEXT("Sound Created: %s , Consumer = %p."), *sourceName, ConsumerPtr);
     }
     else if (type == FMOD_STUDIO_EVENT_CALLBACK_DESTROY_PROGRAMMER_SOUND)
     {
@@ -153,7 +153,7 @@ FMOD_RESULT F_CALL SoundCallback(FMOD_STUDIO_EVENT_CALLBACK_TYPE type, FMOD_STUD
         FMOD::Sound* sound = (FMOD::Sound*)props->sound;
 
         // Release the sound
-        UE_LOG(LogFMODAudioLink, Verbose, TEXT("Sound Release: %p."), sound);
+        //UE_LOG(LogFMODAudioLink, Verbose, TEXT("Sound Release: %p."), sound);
         result = sound->release();
     }
     else if (type == FMOD_STUDIO_EVENT_CALLBACK_DESTROYED)
@@ -161,7 +161,7 @@ FMOD_RESULT F_CALL SoundCallback(FMOD_STUDIO_EVENT_CALLBACK_TYPE type, FMOD_STUD
         InputClientRef* ClientRef = nullptr;
         result = eventInstance->getUserData((void**)&ClientRef);
 
-        UE_LOG(LogFMODAudioLink, Verbose, TEXT("Event Destroyed: ClientRef = %p."), ClientRef);
+        //UE_LOG(LogFMODAudioLink, Verbose, TEXT("Event Destroyed: ClientRef = %p."), ClientRef);
         if (ClientRef)
         {
             delete ClientRef;
@@ -182,8 +182,8 @@ void FFMODAudioLinkInputClient::Start(USceneComponent* InComponent)
     auto SelfSP = AsShared();
     auto PlayLambda = [SelfSP, LinkEvent, InComponent]()
         {
-            UE_LOG(LogFMODAudioLink, Verbose, TEXT("FFMODAudioLinkInputClient::Start: SelfSP = %p, LinkEvent = %s, InComponent = %p.")
-                    , &SelfSP, *LinkEvent.Get()->GetName(), &InComponent);
+            //UE_LOG(LogFMODAudioLink, Verbose, TEXT("FFMODAudioLinkInputClient::Start: SelfSP = %p, LinkEvent = %s, InComponent = %p.")
+             //       , &SelfSP, *LinkEvent.Get()->GetName(), &InComponent);
 
             FMOD::Studio::EventDescription* EventDesc = IFMODStudioModule::Get().GetEventDescription(LinkEvent.Get());
             if (EventDesc != nullptr)
