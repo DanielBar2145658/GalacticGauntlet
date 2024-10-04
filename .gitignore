@@ -1,27 +1,3 @@
-# FMOD files
-FMOD/.user/
-FMOD/.unsaved/
-FMOD/.cache/
-FMOD/.restore/
-FMOD/user/
-FMOD/unsaved/
-FMOD/restore/
-FMOD/fmod.log
-FMOD/fmod_editor.log
-
-FMOD/Desktop/*
-FMOD/Mobile/*
-
-# FMODStudio
-FMODStudio/Binaries/*
-FMODStudio/Content/*
-FMODStudio/Source/*
-FMODStudio/*.uplugin
-
-FMODStudioNiagara/Binaries/*
-FMODStudioNiagara/Content/*
-FMODStudioNiagara/Source/*
-FMODStudioNiagara/*.uplugin
 
 # Visual Studio 2015 user specific files
 .vs/
@@ -73,6 +49,7 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/**/Binaries/*
+!FMOD/Binaries/
 
 # Builds
 Build/*
@@ -97,3 +74,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# hello :)
