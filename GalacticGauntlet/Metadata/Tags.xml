@@ -6,11 +6,71 @@
 		</property>
 		<relationship name="items">
 			<destination>{f118791c-ddda-4431-94e6-b91cca8a11ca}</destination>
+			<destination>{3cd85cbf-1266-469e-93ff-a6b95c51b58e}</destination>
+			<destination>{5886d05b-9156-482c-94b3-281f46a2a19d}</destination>
+			<destination>{1629a57c-a4e4-48ba-b4d6-1fff4b719956}</destination>
+			<destination>{87c2f8ad-9902-457e-b99d-8866dea8db62}</destination>
+			<destination>{583165cd-92c8-4121-a223-a7c1b078bfff}</destination>
+			<destination>{e06ea7a6-0c7e-4ab2-9802-1c31daebe4a4}</destination>
+			<destination>{1c7b4235-547c-41d5-b790-1dfa797f2c12}</destination>
+			<destination>{4eb7e2e1-4699-423a-9e87-9469a6c5eaa6}</destination>
+			<destination>{50dfaf07-8bcd-497c-8792-4a88cf31e5d7}</destination>
+			<destination>{f1c367c9-f921-416d-8a93-1fbf270460da}</destination>
 		</relationship>
 	</object>
 	<object class="Tag" id="{f118791c-ddda-4431-94e6-b91cca8a11ca}">
 		<property name="name">
 			<value>dummy</value>
+		</property>
+	</object>
+	<object class="Tag" id="{3cd85cbf-1266-469e-93ff-a6b95c51b58e}">
+		<property name="name">
+			<value>BGM</value>
+		</property>
+	</object>
+	<object class="Tag" id="{5886d05b-9156-482c-94b3-281f46a2a19d}">
+		<property name="name">
+			<value>Menu</value>
+		</property>
+	</object>
+	<object class="Tag" id="{1629a57c-a4e4-48ba-b4d6-1fff4b719956}">
+		<property name="name">
+			<value>PostRace</value>
+		</property>
+	</object>
+	<object class="Tag" id="{87c2f8ad-9902-457e-b99d-8866dea8db62}">
+		<property name="name">
+			<value>Vehicle</value>
+		</property>
+	</object>
+	<object class="Tag" id="{583165cd-92c8-4121-a223-a7c1b078bfff}">
+		<property name="name">
+			<value>Looping</value>
+		</property>
+	</object>
+	<object class="Tag" id="{e06ea7a6-0c7e-4ab2-9802-1c31daebe4a4}">
+		<property name="name">
+			<value>Level</value>
+		</property>
+	</object>
+	<object class="Tag" id="{1c7b4235-547c-41d5-b790-1dfa797f2c12}">
+		<property name="name">
+			<value>Moon</value>
+		</property>
+	</object>
+	<object class="Tag" id="{4eb7e2e1-4699-423a-9e87-9469a6c5eaa6}">
+		<property name="name">
+			<value>Ambient</value>
+		</property>
+	</object>
+	<object class="Tag" id="{50dfaf07-8bcd-497c-8792-4a88cf31e5d7}">
+		<property name="name">
+			<value>Item</value>
+		</property>
+	</object>
+	<object class="Tag" id="{f1c367c9-f921-416d-8a93-1fbf270460da}">
+		<property name="name">
+			<value>Feedback</value>
 		</property>
 	</object>
 </objects>
