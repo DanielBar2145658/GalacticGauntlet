@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{7ce89e2b-a5fe-40b5-aaa9-046d51bd9169}">
 		<property name="name">
 			<value>OffroadDirt</value>
@@ -57,7 +57,7 @@
 			<destination>{5a69b3e7-d3b2-422c-9243-fd317515dc2f}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{21864bc5-ceb2-4607-9e16-50645a3d2f21}" />

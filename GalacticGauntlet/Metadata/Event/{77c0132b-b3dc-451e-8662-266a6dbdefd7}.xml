@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{77c0132b-b3dc-451e-8662-266a6dbdefd7}">
 		<property name="name">
 			<value>Upgrade</value>
@@ -56,7 +56,7 @@
 			<destination>{56a3e256-29cd-46a0-9632-30ef1fdd5ac2}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{5e6ef7c7-d419-4356-acce-95b4551a3ccf}" />

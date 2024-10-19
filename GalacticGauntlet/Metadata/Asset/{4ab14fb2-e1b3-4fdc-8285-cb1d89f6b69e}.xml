@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="EncodableAsset" id="{4ab14fb2-e1b3-4fdc-8285-cb1d89f6b69e}">
 		<property name="assetPath">
 			<value>testers/</value>

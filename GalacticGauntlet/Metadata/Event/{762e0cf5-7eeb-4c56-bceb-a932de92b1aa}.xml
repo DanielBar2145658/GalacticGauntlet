@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{762e0cf5-7eeb-4c56-bceb-a932de92b1aa}">
 		<property name="name">
 			<value>LapCount_F</value>
@@ -56,7 +56,7 @@
 			<destination>{7756dbb1-8d63-4b91-a109-21c1228453ac}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{03ec6e30-083a-4e92-941a-d31ddfe9164f}" />

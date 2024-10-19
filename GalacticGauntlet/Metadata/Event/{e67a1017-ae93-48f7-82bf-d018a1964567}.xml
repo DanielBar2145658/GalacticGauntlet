@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e67a1017-ae93-48f7-82bf-d018a1964567}">
 		<property name="name">
 			<value>Drill</value>
@@ -59,7 +59,7 @@
 			<destination>{1cf6759c-946b-4a5c-b516-94e9bbc8502e}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{33b3ac70-e4f9-45cd-89d0-6eb0aa35125b}" />

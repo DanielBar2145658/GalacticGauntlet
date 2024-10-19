@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{70e393ba-4ed5-4ca3-9537-0224aab63e5f}">
 		<property name="name">
 			<value>Use</value>
@@ -56,7 +56,7 @@
 			<destination>{3419cbfa-c000-492a-8ec0-89109b6c65b5}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{72c8beab-391a-4f6a-9e77-c6f76b854450}" />

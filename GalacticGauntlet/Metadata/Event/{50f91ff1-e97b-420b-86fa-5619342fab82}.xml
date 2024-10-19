@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{50f91ff1-e97b-420b-86fa-5619342fab82}">
 		<property name="name">
 			<value>Countdown</value>
@@ -56,7 +56,7 @@
 			<destination>{320f2502-7866-4996-b3fb-d1a065904379}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{8f459705-860d-4dd0-8334-deff0abd3db9}" />

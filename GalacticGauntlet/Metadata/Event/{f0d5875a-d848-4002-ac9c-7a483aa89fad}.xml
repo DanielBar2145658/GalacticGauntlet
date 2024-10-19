@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{f0d5875a-d848-4002-ac9c-7a483aa89fad}">
 		<property name="name">
 			<value>DriftCharge</value>
@@ -56,7 +56,7 @@
 			<destination>{c29d99e7-5635-4a49-a14a-ed35a9fefadc}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{eefc2613-373e-4180-baf9-bd9871e21eec}" />

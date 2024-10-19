@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c92204f0-e268-47e5-a717-da88018822a8}">
 		<property name="note">
 			<value>taken from my osu folder</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{923d3118-e331-42ba-bbb8-63de6cde4012}">
 		<property name="name">
 			<value>VictoryTheme</value>
@@ -58,7 +58,7 @@
 			<destination>{34e94e9b-3146-4f8e-aec7-fe9d5c80f920}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{95de4b23-9297-4bcc-b546-4b43e22e750c}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{2b54b52c-a061-4165-9d0f-f6375f0893ac}" />

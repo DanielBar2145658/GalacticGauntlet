@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b8c5f982-8093-4e64-8ee6-041fae6fc1d8}">
 		<property name="name">
 			<value>SelectMenu</value>
@@ -58,7 +58,7 @@
 			<destination>{8e6bc966-2986-46ca-b7d2-d1e6583c1172}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{95de4b23-9297-4bcc-b546-4b43e22e750c}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{2d4cae55-8410-4579-b5bf-94361949180d}" />
@@ -77,10 +77,10 @@
 			<destination>{81cb34ed-28b0-431c-bce4-52e1c8506e9e}</destination>
 		</relationship>
 		<relationship name="markers">
+			<destination>{d6dc4777-bd8a-4c43-b9ca-5438e1621e8a}</destination>
 			<destination>{1a0ff3b4-ed80-4aeb-99f8-0a8f48699bad}</destination>
 			<destination>{cca0532f-87d2-42ce-b064-acfe24aa8830}</destination>
 			<destination>{e1cd1be9-9de2-4fed-82ec-fd3afb47fa08}</destination>
-			<destination>{d6dc4777-bd8a-4c43-b9ca-5438e1621e8a}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{226deb6c-fe1c-4dff-bbd9-1ce23a9ebe8a}">
@@ -120,6 +120,20 @@
 		</relationship>
 		<relationship name="output">
 			<destination>{226deb6c-fe1c-4dff-bbd9-1ce23a9ebe8a}</destination>
+		</relationship>
+	</object>
+	<object class="NamedMarker" id="{d6dc4777-bd8a-4c43-b9ca-5438e1621e8a}">
+		<property name="position">
+			<value>4.8275862068965516</value>
+		</property>
+		<property name="name">
+			<value>NoIntro</value>
+		</property>
+		<relationship name="timeline">
+			<destination>{f68df3fd-1cd0-4f22-a9d0-4023ed89adb6}</destination>
+		</relationship>
+		<relationship name="markerTrack">
+			<destination>{e4abc4f6-bd20-453c-9dbf-d02065ad872a}</destination>
 		</relationship>
 	</object>
 	<object class="LoopRegion" id="{1a0ff3b4-ed80-4aeb-99f8-0a8f48699bad}">
@@ -165,20 +179,6 @@
 		</relationship>
 		<relationship name="triggerConditions">
 			<destination>{ec6b5cb7-26ac-4eaf-ae8c-6c06bb4364bc}</destination>
-		</relationship>
-	</object>
-	<object class="NamedMarker" id="{d6dc4777-bd8a-4c43-b9ca-5438e1621e8a}">
-		<property name="position">
-			<value>4.8275862068965516</value>
-		</property>
-		<property name="name">
-			<value>NoIntro</value>
-		</property>
-		<relationship name="timeline">
-			<destination>{f68df3fd-1cd0-4f22-a9d0-4023ed89adb6}</destination>
-		</relationship>
-		<relationship name="markerTrack">
-			<destination>{e4abc4f6-bd20-453c-9dbf-d02065ad872a}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{aa0e965b-7a40-450a-b4c0-0a1357cc1a82}">

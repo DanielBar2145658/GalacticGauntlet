@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{2605ac2e-35a7-41bf-b933-f82f78f69575}">
 		<property name="name">
 			<value>ShortcutBG</value>
@@ -58,7 +58,7 @@
 			<destination>{80daf569-4ca1-42cf-a826-2a08211d2eaf}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{55a5fdd7-d602-4556-92ac-58c8033a039e}" />

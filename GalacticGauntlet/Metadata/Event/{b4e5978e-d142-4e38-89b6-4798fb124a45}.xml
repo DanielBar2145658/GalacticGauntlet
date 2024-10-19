@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b4e5978e-d142-4e38-89b6-4798fb124a45}">
 		<property name="name">
 			<value>Crowd</value>
@@ -59,7 +59,7 @@
 			<destination>{bbf17cba-619c-4834-bfeb-02b802f278d9}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{207f145d-27fb-4a76-9553-36567bca97eb}</destination>
+			<destination>{8fc94905-5338-4ede-a34c-198b17dec5a6}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{2a2a7975-6120-4fbe-9ff1-f27a186e9cd2}" />

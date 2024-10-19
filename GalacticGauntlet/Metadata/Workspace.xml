@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{86e662fa-3da1-444f-a852-577c4581bb62}">
 		<property name="builtBanksOutputDirectory">
 			<value>../Content/FMOD</value>
