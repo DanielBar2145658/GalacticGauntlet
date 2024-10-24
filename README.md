@@ -7,7 +7,7 @@
 
 - **Roles**: Back-end Developer
 
-- **Responsibilities**: organize readme, create video report, keep the team on track
+- **Responsibilities**: Organize readme, Create video report, Keep the team on track
 
 - **Percentage contribution**: 25%
 
@@ -15,7 +15,7 @@
 
 - **Role**: Programmer
 
-- **Responsibilities**: Programming, implementing design patterns
+- **Responsibilities**: Programming, Implementing design patterns
 
 - **Percentage contribution**: 40%
 
@@ -23,7 +23,7 @@
 
 - **Role**: Back-end Developer
 
-- **Responsibilities**: make pseudocode, organize planning document 
+- **Responsibilities**: Make pseudocode, Organize planning document 
 
 - **Percentage contribution**: 35%
 
