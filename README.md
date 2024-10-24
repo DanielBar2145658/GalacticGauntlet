@@ -4,19 +4,28 @@
 ### Roles and responsibilities
 
 **Devon Rogers** - 100861866
-**Roles**: Back-end Developer
-**Responsibilities**: organize readme, create video report, keep the team on track
-**Percentage contribution**: 25%
+
+- **Roles**: Back-end Developer
+
+- **Responsibilities**: organize readme, create video report, keep the team on track
+
+- **Percentage contribution**: 25%
 
 **Daniel Barbier** - 100820942
-**Role**: Programmer
-**Responsibilities**: Programs, implements design patterns
-**Percentage contribution**: 40%
+
+- **Role**: Programmer
+
+- **Responsibilities**: Programming, implementing design patterns
+
+- **Percentage contribution**: 40%
 
 **Jacob Janowitz** - 100830985
-**Role**: Back-end Developer
-**Responsibilities**: make pseudocode, organize planning document 
-**Percentage contribution**: 35%
+
+- **Role**: Back-end Developer
+
+- **Responsibilities**: make pseudocode, organize planning document 
+
+- **Percentage contribution**: 35%
 
 ### Explanation
 
