@@ -3,26 +3,26 @@
 
 ### Roles and responsibilities
 
-Devon Rogers - 100861866
-Roles: Back-end Developer
-Responsibilities: organize readme, create video report, keep the team on track
-Percentage contribution: 25%
+**Devon Rogers** - 100861866
+**Roles**: Back-end Developer
+**Responsibilities**: organize readme, create video report, keep the team on track
+**Percentage contribution**: 25%
 
-Daniel Barbier - 100820942
-Roles: Programmer
-Responsibilities: Programs, implements design patterns
-Percentage contribution: 40%
+**Daniel Barbier** - 100820942
+**Role**: Programmer
+**Responsibilities**: Programs, implements design patterns
+**Percentage contribution**: 40%
 
-Jacob Janowitz - 100830985
-Roles: Back-end Developers
-Responsibilities: make pseudocode, organize planning document 
-Percentage contribution: 35%
+**Jacob Janowitz** - 100830985
+**Role**: Back-end Developer
+**Responsibilities**: make pseudocode, organize planning document 
+**Percentage contribution**: 35%
 
 ### Explanation
 
 
 ### Description
-An out-of-this-world racing experience! Galactic Gauntlet is a space-themed racing game with the main mechanic switching between land and air.
+Galactic Gauntlet is a space-themed racing game with the main mechanic switching between land and air.
 Traverse through different planets and space systems and be the first one to finish the track with a customizable ship. Race against others locally or play solo to set your own record!
 
 ### Interactive Media Scenario Description
