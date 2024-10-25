@@ -13,7 +13,6 @@
 			]
 		}
 	],
-
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -21,11 +20,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
 		}
 	]
 }
