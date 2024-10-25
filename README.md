@@ -262,6 +262,7 @@
   - If a player touches item box and isActive = true:
     - Assign a random item from the list items[] to the player
     - despawn the item box
+    - set isActive to false
     - wait 5 seconds
     - call SpawnItemBox();
 
