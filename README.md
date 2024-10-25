@@ -32,7 +32,7 @@
 - Audio assets, such as background music and menu sound effects, were created by non-GED members of the GDW team.
 - The initial framework of the audio manament code was create by Tom, a member of the GDW team, as they have the most experience with FMOD. The justification is that FMOD can be confusing when you first start, and having somethin to work off of helps a ton.
 
-## Explanation
+## Explanations
 
 ### Singleton
 
