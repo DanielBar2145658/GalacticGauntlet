@@ -67,7 +67,7 @@
 	<object class="MarkerTrack" id="{24cfb31c-778a-4deb-a817-e77a0d6f97c1}" />
 	<object class="GroupTrack" id="{76e7db04-14a0-4041-bb6b-ab324e477d40}">
 		<relationship name="modules">
-			<destination>{6451bfc4-95f6-4efd-812b-80a5f239fc76}</destination>
+			<destination>{4f193f56-dd1c-4219-8575-78ee444d50b9}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{f45b60b5-f1e5-4c29-9f26-3ed06f1d6edf}</destination>
@@ -75,7 +75,7 @@
 	</object>
 	<object class="Timeline" id="{67891db2-40af-49bf-b675-171522886bbc}">
 		<relationship name="modules">
-			<destination>{6451bfc4-95f6-4efd-812b-80a5f239fc76}</destination>
+			<destination>{4f193f56-dd1c-4219-8575-78ee444d50b9}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{c98e698f-b32c-4184-9d9e-ce66ab7637c5}</destination>
@@ -99,12 +99,12 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{84a2a924-d72f-422a-932d-6d2113ab7f40}" />
-	<object class="SingleSound" id="{6451bfc4-95f6-4efd-812b-80a5f239fc76}">
+	<object class="SingleSound" id="{4f193f56-dd1c-4219-8575-78ee444d50b9}">
 		<property name="length">
-			<value>32.966530612244895</value>
+			<value>96.444081632653067</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{9fa7808a-7fa2-4eb9-bda4-a5825ea47173}</destination>
+			<destination>{87b63e54-9775-4da7-a33b-9c44207fd107}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{f45b60b5-f1e5-4c29-9f26-3ed06f1d6edf}">
@@ -126,7 +126,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>32.966530612244895</value>
+			<value>96.444081632653067</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{67891db2-40af-49bf-b675-171522886bbc}</destination>
@@ -140,7 +140,7 @@
 			<value>0</value>
 		</property>
 		<property name="tempo">
-			<value>175</value>
+			<value>172</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{67891db2-40af-49bf-b675-171522886bbc}</destination>
