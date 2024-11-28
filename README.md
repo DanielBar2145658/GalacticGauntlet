@@ -1,3 +1,5 @@
+# For the GED Course Project, please see "GED Course Project.pdf"
+
 # Galactic Gauntlet
 ### An out-of-this-world racing experience!
 
