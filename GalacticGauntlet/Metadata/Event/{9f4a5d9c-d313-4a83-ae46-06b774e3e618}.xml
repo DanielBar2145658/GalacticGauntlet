@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{9f4a5d9c-d313-4a83-ae46-06b774e3e618}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>ModeTransition</value>
 		</property>
