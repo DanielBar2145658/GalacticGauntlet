@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{bb2517f1-e96b-40a5-b651-d31a27b20294}">
+		<property name="assetPath">
+			<value>BGM/Conveyor/conveyorSect1.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>62.432653061224492</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3fa664d0-dabb-4644-83bf-c10b427c1d08}</destination>
+		</relationship>
+	</object>
+</objects>

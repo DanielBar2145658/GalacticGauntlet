@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{59fb0d1a-b41c-47fa-b8c2-5850ad22ee38}">
+		<property name="assetPath">
+			<value>SFX/Conveyor/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3fa664d0-dabb-4644-83bf-c10b427c1d08}</destination>
+		</relationship>
+	</object>
+</objects>

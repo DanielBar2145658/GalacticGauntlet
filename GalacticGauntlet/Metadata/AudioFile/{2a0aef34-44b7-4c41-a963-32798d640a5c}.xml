@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2a0aef34-44b7-4c41-a963-32798d640a5c}">
+		<property name="assetPath">
+			<value>SFX/Conveyor/siren.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.4187755102040818</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3fa664d0-dabb-4644-83bf-c10b427c1d08}</destination>
+		</relationship>
+	</object>
+</objects>
