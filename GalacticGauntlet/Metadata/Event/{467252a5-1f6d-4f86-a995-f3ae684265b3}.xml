@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{467252a5-1f6d-4f86-a995-f3ae684265b3}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>ShortcutTrigger</value>
 		</property>
